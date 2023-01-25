@@ -74,11 +74,6 @@ plugins=(
   git
   brew
   macos
-  docker
-  docker-compose
-  kubectl
-  helm
-  composer
   npm
   emoji
   zsh-autosuggestions
