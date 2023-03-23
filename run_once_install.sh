@@ -35,3 +35,6 @@ cask "visual-studio-code"
 cask "webstorm"
 cask "zoom"
 EOF
+
+echo "Installing nvm..."
+/bin/bash -c "$(curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh)
