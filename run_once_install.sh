@@ -23,7 +23,6 @@ cask "firefox"
 cask "gather"
 cask "google-chrome"
 cask "google-drive"
-cask insomnia
 cask "iterm2"
 cask "leapp"
 cask "libreoffice"
